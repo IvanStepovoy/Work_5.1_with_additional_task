@@ -26,7 +26,8 @@ public class BMW_ALPINA_B7 extends Car
         public void enterParams () {
             try {
 
-                System.out.println("Please, enter the desired parameters of your DREAM CAR! ");
+                System.out.println("We can make a car for you with any parameters you want");
+                System.out.println("Please, enter the desired parameters of your DREAM CAR!");
                 System.out.println();
 
                 System.out.print("Please, enter the desired parameters: MaxSpeed: ");
